@@ -16,7 +16,7 @@ Live articles + SEO hub: https://thats-january-previous-let.trycloudflare.com
 - **[50 Youtubers & Video Creators AI Prompts](https://ptrk-en.gumroad.com/l/niche-youtuber-prompts)** — 50 prompts for video scripts, titles, and thumbnails that get clicked. ($19)
 - **[50 Newsletter Authors AI Prompts](https://ptrk-en.gumroad.com/l/niche-newsletter-prompts)** — 50 prompts for issue openers, subject lines, and growth tweets that build a list. ($17)
 - **[50 Local Service Businesses AI Prompts](https://ptrk-en.gumroad.com/l/niche-localservice-prompts)** — 50 prompts for local service businesses to write Google posts, quotes, and review requests. ($15)
-- **[50 Course Creators AI Prompts](https://thats-january-previous-let.trycloudflare.com/products/niche-coursecreator-prompts)** — 50 prompts for course outlines, lesson scripts, and launch emails that sell. ($19)
+- **[50 Course Creators AI Prompts](https://ptrk-en.gumroad.com/l/niche-coursecreator-prompts)** — 50 prompts for course outlines, lesson scripts, and launch emails that sell. ($19)
 
 ## Latest articles
 
