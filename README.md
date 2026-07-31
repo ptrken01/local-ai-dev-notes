@@ -31,3 +31,8 @@ New technical articles are published daily at https://restore-managing-optional-
 
 ---
 Brand-owned publication. No affiliates, no spam.
+
+
+## Live site
+
+All products + free articles: **[autoincomesys.com](https://autoincomesys.com)** — local-first AI dev notes, build-once digital products (Gumroad).
