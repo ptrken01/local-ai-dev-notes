@@ -4,6 +4,8 @@ Build once, sell forever. A brand index of local-AI developer products, generate
 
 Live articles + SEO hub: https://autoincomesys.com
 
+🚀 **Free MLX starter — run a local LLM on Apple Silicon in 5 minutes** ([github.com/ptrken01/mlx-apple-silicon-starter](https://github.com/ptrken01/mlx-apple-silicon-starter)): working setup script + the 3 silent failures nobody documents. Full playbook + **40% off with code `LAUNCH40`** → [The MLX Deploy Playbook on Gumroad](https://ptrk-en.gumroad.com/l/mlx-deploy-playbook).
+
 ## Products
 
 - **[Local LLM on Apple Silicon — The MLX Deploy Playbook](https://ptrk-en.gumroad.com/l/mlx-deploy-playbook)** — The exact recipe to serve fast, private LLMs on your Mac — including the silent failures nobody documents. ($29)
