@@ -4,11 +4,11 @@ Build once, sell forever. A brand index of local-AI developer products, generate
 
 Live articles + SEO hub: https://autoincomesys.com
 
-🚀 **Free MLX starter — run a local LLM on Apple Silicon in 5 minutes** ([github.com/ptrken01/mlx-apple-silicon-starter](https://github.com/ptrken01/mlx-apple-silicon-starter)): working setup script + the 3 silent failures nobody documents. Full playbook + **40% off with code `LAUNCH40`** → [The MLX Deploy Playbook on Gumroad](https://ptrk-en.gumroad.com/l/mlx-deploy-playbook).
+🚀 **Free MLX starter — run a local LLM on Apple Silicon in 5 minutes** ([github.com/ptrken01/mlx-apple-silicon-starter](https://github.com/ptrken01/mlx-apple-silicon-starter)): working setup script + the 3 silent failures nobody documents. Full playbook + **40% off with code `LAUNCH40`** → [The MLX Deploy Playbook on Gumroad](https://ptrk-en.gumroad.com/l/mlx-deploy-playbook?offer_code=LAUNCH40).
 
 ## Products
 
-- **[Local LLM on Apple Silicon — The MLX Deploy Playbook](https://ptrk-en.gumroad.com/l/mlx-deploy-playbook)** — The exact recipe to serve fast, private LLMs on your Mac — including the silent failures nobody documents. ($29)
+- **[Local LLM on Apple Silicon — The MLX Deploy Playbook](https://ptrk-en.gumroad.com/l/mlx-deploy-playbook?offer_code=LAUNCH40)** — The exact recipe to serve fast, private LLMs on your Mac — including the silent failures nobody documents. ($29)
 - **[The MLX-Optimized Local-LLM Prompt Pack](https://ptrk-en.gumroad.com/l/mlx-prompt-pack)** — 48 production prompts tuned for smaller local models — copy-paste + JSON for agent loops. ($19)
 - **[Local-LLM Builder Bundle (Playbook + Prompt Pack)](https://ptrk-en.gumroad.com/l/mlx-starter-bundle)** — Both products together: deploy the server, then drive it with the tuned prompt library. Save 21%. ($39)
 - **[50 Real Estate Agents AI Prompts](https://ptrk-en.gumroad.com/l/niche-realestate-prompts)** — 50 ready-to-use prompts so real estate agents write listings, follow-ups, and ads in minutes. ($19)
@@ -36,8 +36,8 @@ Live articles + SEO hub: https://autoincomesys.com
 - **[Learning-to-Rank & Retrieval Pack for Agents](https://ptrk-en.gumroad.com/l/math-learning-to-rank)** — Build a client search/recommendation ranking model with learning-to-rank math. ($29)
 - **[Embeddings & Similarity Pack for Agents](https://ptrk-en.gumroad.com/l/math-linear-algebra-embeddings)** — Build recommendation, similarity, and embedding systems with linear-algebra math. ($29)
 - **[Risk & Actuarial Pricing Pack for Agents](https://ptrk-en.gumroad.com/l/math-risk-actuarial-pricing)** — Price insurance and risk models for a client with coherent risk-measure math. ($49)
-- **[Web Scrapers Compared — Scrapy vs ScrapeGraphAI vs trafilatura (Local-First, Free)](https://ptrk-en.gumroad.com/l/web-scrapers-compared)** — Which free, local-first scraper to use for which job — with license honesty and a real smoke test. ($19)
-- **[Self-Hosted Automation Compared — Automatisch vs n8n (Why n8n Costs You, Automatisch Doesn't)](https://ptrk-en.gumroad.com/l/self-hosted-automation-compared)** — The n8n fair-code license trap, and how to deploy Automatisch free with a working docker-compose. ($19)
+- **[Web Scrapers Compared — Scrapy vs ScrapeGraphAI vs trafilatura (Local-First, Free)](https://ptrk-en.gumroad.com/l/web-scrapers-compared?offer_code=LAUNCH40)** — Which free, local-first scraper to use for which job — with license honesty and a real smoke test. ($19)
+- **[Self-Hosted Automation Compared — Automatisch vs n8n (Why n8n Costs You, Automatisch Doesn't)](https://ptrk-en.gumroad.com/l/self-hosted-automation-compared?offer_code=LAUNCH40)** — The n8n fair-code license trap, and how to deploy Automatisch free with a working docker-compose. ($19)
 - **[Recursive Meta-Loop Engineering — Level 1: Private Score & Fixed Budget](https://ptrk-en.gumroad.com/l/meta-loop-private-score-discipline)** — The first discipline that makes an agentic loop actually improve: held-out private scores, fixed budgets, and anti-reward-hacking gates. ($29)
 - **[Recursive Meta-Loop Engineering — Level 2: Mechanism Injection](https://ptrk-en.gumroad.com/l/mechanism-injection)** — How to turn a repeating failure into a real edit to the inner loop, instead of another wiki note that gets ignored. ($29)
 - **[Recursive Meta-Loop Engineering — Level 3: Held-Out Revert Discipline](https://ptrk-en.gumroad.com/l/held-out-revert-discipline)** — How an autonomous loop can change itself safely: backups, held-out scores, hard revert paths, and human gating at the right layer. ($29)
