@@ -4,11 +4,9 @@ Build once, sell forever. A brand index of local-AI developer products, generate
 
 Live articles + SEO hub: https://autoincomesys.com
 
-🚀 **Free MLX starter — run a local LLM on Apple Silicon in 5 minutes** ([github.com/ptrken01/mlx-apple-silicon-starter](https://github.com/ptrken01/mlx-apple-silicon-starter)): working setup script + the 3 silent failures nobody documents. Full playbook + **40% off with code `LAUNCH40`** → [The MLX Deploy Playbook on Gumroad](https://ptrk-en.gumroad.com/l/mlx-deploy-playbook?offer_code=LAUNCH40).
-
 ## Products
 
-- **[Local LLM on Apple Silicon — The MLX Deploy Playbook](https://ptrk-en.gumroad.com/l/mlx-deploy-playbook?offer_code=LAUNCH40)** — The exact recipe to serve fast, private LLMs on your Mac — including the silent failures nobody documents. ($29)
+- **[Local LLM on Apple Silicon — The MLX Deploy Playbook](https://ptrk-en.gumroad.com/l/mlx-deploy-playbook)** — The exact recipe to serve fast, private LLMs on your Mac — including the silent failures nobody documents. ($29)
 - **[The MLX-Optimized Local-LLM Prompt Pack](https://ptrk-en.gumroad.com/l/mlx-prompt-pack)** — 48 production prompts tuned for smaller local models — copy-paste + JSON for agent loops. ($19)
 - **[Local-LLM Builder Bundle (Playbook + Prompt Pack)](https://ptrk-en.gumroad.com/l/mlx-starter-bundle)** — Both products together: deploy the server, then drive it with the tuned prompt library. Save 21%. ($39)
 - **[50 Real Estate Agents AI Prompts](https://ptrk-en.gumroad.com/l/niche-realestate-prompts)** — 50 ready-to-use prompts so real estate agents write listings, follow-ups, and ads in minutes. ($19)
@@ -36,8 +34,8 @@ Live articles + SEO hub: https://autoincomesys.com
 - **[Learning-to-Rank & Retrieval Pack for Agents](https://ptrk-en.gumroad.com/l/math-learning-to-rank)** — Build a client search/recommendation ranking model with learning-to-rank math. ($29)
 - **[Embeddings & Similarity Pack for Agents](https://ptrk-en.gumroad.com/l/math-linear-algebra-embeddings)** — Build recommendation, similarity, and embedding systems with linear-algebra math. ($29)
 - **[Risk & Actuarial Pricing Pack for Agents](https://ptrk-en.gumroad.com/l/math-risk-actuarial-pricing)** — Price insurance and risk models for a client with coherent risk-measure math. ($49)
-- **[Web Scrapers Compared — Scrapy vs ScrapeGraphAI vs trafilatura (Local-First, Free)](https://ptrk-en.gumroad.com/l/web-scrapers-compared?offer_code=LAUNCH40)** — Which free, local-first scraper to use for which job — with license honesty and a real smoke test. ($19)
-- **[Self-Hosted Automation Compared — Automatisch vs n8n (Why n8n Costs You, Automatisch Doesn't)](https://ptrk-en.gumroad.com/l/self-hosted-automation-compared?offer_code=LAUNCH40)** — The n8n fair-code license trap, and how to deploy Automatisch free with a working docker-compose. ($19)
+- **[Web Scrapers Compared — Scrapy vs ScrapeGraphAI vs trafilatura (Local-First, Free)](https://ptrk-en.gumroad.com/l/web-scrapers-compared)** — Which free, local-first scraper to use for which job — with license honesty and a real smoke test. ($19)
+- **[Self-Hosted Automation Compared — Automatisch vs n8n (Why n8n Costs You, Automatisch Doesn't)](https://ptrk-en.gumroad.com/l/self-hosted-automation-compared)** — The n8n fair-code license trap, and how to deploy Automatisch free with a working docker-compose. ($19)
 - **[Recursive Meta-Loop Engineering — Level 1: Private Score & Fixed Budget](https://ptrk-en.gumroad.com/l/meta-loop-private-score-discipline)** — The first discipline that makes an agentic loop actually improve: held-out private scores, fixed budgets, and anti-reward-hacking gates. ($29)
 - **[Recursive Meta-Loop Engineering — Level 2: Mechanism Injection](https://ptrk-en.gumroad.com/l/mechanism-injection)** — How to turn a repeating failure into a real edit to the inner loop, instead of another wiki note that gets ignored. ($29)
 - **[Recursive Meta-Loop Engineering — Level 3: Held-Out Revert Discipline](https://ptrk-en.gumroad.com/l/held-out-revert-discipline)** — How an autonomous loop can change itself safely: backups, held-out scores, hard revert paths, and human gating at the right layer. ($29)
@@ -49,6 +47,21 @@ Live articles + SEO hub: https://autoincomesys.com
 - **[AI Listing Optimizer: Speedrun Prompt Pack for Etsy Sellers](https://ptrk-en.gumroad.com/l/arena-ai-listing-optimizer-speedrun-prompt-pack-for-et)** — For Etsy sellers using AI for listings. Grounded in verified open-source tools. ($29)
 - **[Local LLM Agent Runbook: Postmortem & Optimization for Ollama/MLX/llama.cpp](https://ptrk-en.gumroad.com/l/arena-local-llm-agent-runbook-postmortem-optimization-)** — For people running local LLMs (Ollama/MLX/llama.cpp). Grounded in verified open-source tools. ($49)
 - **[Local LLM Web Scraping Postmortem Notion Template](https://ptrk-en.gumroad.com/l/arena-local-llm-web-scraping-postmortem-notion-templat)** — For people running local LLMs (Ollama/MLX/llama.cpp). Grounded in verified open-source tools. ($49)
+- **[AI Automation Playbook: Speedrun Your SaaS with Open-Source Scraping & LLM Tools](https://ptrk-en.gumroad.com/l/arena-ai-automation-playbook-speedrun-your-saas-with-o)** — For indie SaaS founders automating with AI. Grounded in verified open-source tools. ($15)
+- **[Local LLM Agent Setup Checklist: For Runners Using Ollama, MLX, and llama.cpp](https://ptrk-en.gumroad.com/l/arena-local-llm-agent-setup-checklist-for-runners-usin)** — For people running local LLMs (Ollama/MLX/llama.cpp). Grounded in verified open-source tools. ($15)
+- **[Speedrun Your Local LLM Agent: Build a Scraping & Automation Stack with Open Sou](https://ptrk-en.gumroad.com/l/arena-speedrun-your-local-llm-agent-build-a-scraping-a)** — For people running local LLMs (Ollama/MLX/llama.cpp). Grounded in verified open-source tools. ($15)
+- **[**The Contrarian's Guide to Scripting YouTube Content with AI: A Playbook for Cr](https://ptrk-en.gumroad.com/l/arena-the-contrarian-s-guide-to-scripting-youtube-cont)** — For YouTube creators scripting with AI. Grounded in verified open-source tools. ($29)
+- **[Build Your Own No-Code Automation Stack with Open Source Tools](https://ptrk-en.gumroad.com/l/arena-build-your-own-no-code-automation-stack-with-ope)** — For no-code automation users (Zapier/n8n refugees). Grounded in verified open-source tools. ($29)
+- **[AI Job Application Playbook: Automate Your Search with Open-Source Tools](https://ptrk-en.gumroad.com/l/arena-ai-job-application-playbook-automate-your-search)** — For job seekers using AI for applications. Grounded in verified open-source tools. ($29)
+- **[AI for Etsy Listings: A Postmortem Guide to Choosing the Right Scraping & Automa](https://ptrk-en.gumroad.com/l/arena-ai-for-etsy-listings-a-postmortem-guide-to-choos)** — For Etsy sellers using AI for listings. Grounded in verified open-source tools. ($5)
+- **[AI Job Seeker Speedrun: Master Applications Using Open-Source Scraping & Automat](https://ptrk-en.gumroad.com/l/arena-ai-job-seeker-speedrun-master-applications-using)** — For job seekers using AI for applications. Grounded in verified open-source tools. ($15)
+- **[Local LLM Agent Toolkit: A Practical Guide to Running Agents with Open-Source To](https://ptrk-en.gumroad.com/l/arena-local-llm-agent-toolkit-a-practical-guide-to-run)** — For people running local LLMs (Ollama/MLX/llama.cpp). Grounded in verified open-source tools. ($29)
+- **[AI Scripting Tools Comparison Guide: From Scrapy to Local LLM Runners](https://ptrk-en.gumroad.com/l/arena-ai-scripting-tools-comparison-guide-from-scrapy-)** — For YouTube creators scripting with AI. Grounded in verified open-source tools. ($29)
+- **[MCP Server Playbook: Build Scalable Scraping & Automation Workflows](https://ptrk-en.gumroad.com/l/arena-mcp-server-playbook-build-scalable-scraping-auto)** — For developers building MCP servers. Grounded in verified open-source tools. ($15)
+- **[AI-Powered Etsy Listing Automation Playbook: From Scraping to Sales](https://ptrk-en.gumroad.com/l/arena-ai-powered-etsy-listing-automation-playbook-from)** — For Etsy sellers using AI for listings. Grounded in verified open-source tools. ($9)
+- **[The No-Code Automation Pro’s Guide to Open-Source Scraping & Automation Tools](https://ptrk-en.gumroad.com/l/arena-the-no-code-automation-pro-s-guide-to-open-sourc)** — For no-code automation users (Zapier/n8n refugees). Grounded in verified open-source tools. ($0)
+- **[Local LLM Agent Stack: A Postmortem of Real Tools for Real Workflows](https://ptrk-en.gumroad.com/l/arena-local-llm-agent-stack-a-postmortem-of-real-tools)** — For people running local LLMs (Ollama/MLX/llama.cpp). Grounded in verified open-source tools. ($29)
+- **[AI Automation Playbook: Build Scalable Scraping + LLM Agents Without Breaking th](https://ptrk-en.gumroad.com/l/arena-ai-automation-playbook-build-scalable-scraping-l)** — For indie SaaS founders automating with AI. Grounded in verified open-source tools. ($29)
 
 ## Latest articles
 
