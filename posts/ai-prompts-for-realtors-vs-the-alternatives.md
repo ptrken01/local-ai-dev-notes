@@ -1,5 +1,10 @@
 # AI Prompts For Realtors vs the Alternatives
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 
 Real estate agents spend hours writing listings, follow-ups, and ads. AI prompts can reduce this to minutes—without sharing proprietary data with third parties.
 
