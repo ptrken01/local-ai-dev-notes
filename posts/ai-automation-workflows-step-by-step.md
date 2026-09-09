@@ -1,5 +1,10 @@
 # Ai Automation Workflows Step-by-Step
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 
 Small businesses need practical AI solutions that actually save time, not just theoretical frameworks. The AI Automation Playbook offers 51 ready-to-deploy workflows designed for immediate implementation.
 
