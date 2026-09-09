@@ -1,5 +1,10 @@
 # Creator AI Prompts Common Pitfalls
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 
 When building AI workflows for content creation, the difference between successful automation and frustrating dead ends often comes down to prompt engineering details. Here's how to avoid the most common mistakes that derail your video creator AI pipelines.
 
