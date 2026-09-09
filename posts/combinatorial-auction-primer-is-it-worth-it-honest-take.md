@@ -1,5 +1,10 @@
 # Combinatorial Auction Primer: Is It Worth It? (Honest Take)
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 Combinatorial auctions are a powerful tool for AI agents to compute revenue-maximizing pricing, but they're often overcomplicated or poorly implemented. In this article, we'll explore how to build a practical combinatorial auction system that's fast, private, and trustworthy—perfect for building once and deploying across multiple use cases.
 
 ## Core Concept
