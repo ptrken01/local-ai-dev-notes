@@ -1,5 +1,10 @@
 # Creator AI Prompts vs the Alternatives
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 As a video creator, I've tested dozens of AI prompt systems for YouTube content. Most are either too generic or too expensive for sustained use. After building my own system, I'm sharing what works.
 
 ## The Core Problem
