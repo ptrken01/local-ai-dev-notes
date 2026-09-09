@@ -1,5 +1,10 @@
 # Competitor Pricing Model A Minimal Working Example
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 In game theory, understanding competitor behavior is crucial for strategic decision-making. This article demonstrates a minimal working example of modeling competitor pricing using a simple duopoly game-theoretic approach.
 
 ## The Core Concept
