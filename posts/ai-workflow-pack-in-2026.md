@@ -1,5 +1,10 @@
 # AI Workflow Pack in 2026
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 
 Small business teams are waking up to a reality where AI isn't just a buzzword—it's a productivity multiplier. The question isn't whether to adopt AI, but how quickly you can integrate it into your existing workflows without reinventing the wheel.
 
@@ -76,7 +81,7 @@ A: No, but you should be comfortable with basic tools like spreadsheets and emai
 
 **Q: How much time do teams actually save?**
 
-A: In our testing, teams using the playbook saved an average of 15-20 hours per week on administrative tasks. This translates to 500- 000 in monthly productivity gains for a team of 5 people.
+A: Teams typically reclaim several hours per week per person once repetitive admin workflows are automated. To estimate the dollar value for your team, multiply those saved hours by your own loaded hourly cost.
 
 ## The 2026 AI Automation Landscape
 
