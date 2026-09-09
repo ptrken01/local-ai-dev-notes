@@ -1,5 +1,10 @@
 # AI For Beginners: A Practical Dev Guide
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 AI tools are transforming how we work, but most guides assume you're already technical. This practical guide shows you how to build faster, private workflows using AI—no coding required.
 
 ## Your First AI Workflow
