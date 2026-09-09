@@ -1,5 +1,10 @@
 # Client Email Templates Benchmarks & Numbers
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 
 As a solopreneur consultant, your email response rate directly impacts your business velocity. I've analyzed real-world data from 200+ client emails across 15 consulting niches to establish benchmarks for effective email templates.
 
