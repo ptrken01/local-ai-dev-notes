@@ -1,5 +1,10 @@
 # Client Email Templates in 2026
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 
 The year 2026 brings a new reality for solopreneur consultants: email templates must be fast, private, and reusable. You don't need another copywriter—just a framework that works with your AI tools to generate client emails without manual drafting.
 
