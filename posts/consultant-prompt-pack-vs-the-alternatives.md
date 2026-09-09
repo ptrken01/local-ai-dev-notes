@@ -1,5 +1,10 @@
 # Consultant Prompt Pack vs the Alternatives
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 
 As a solopreneur consultant, you know that writing client proposals, follow-up emails, and lead magnets consumes 30- of your billable time. Most consultants either outsource copywriting or use generic AI prompts that require extensive refinement.
 
