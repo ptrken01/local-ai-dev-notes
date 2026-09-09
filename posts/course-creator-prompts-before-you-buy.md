@@ -1,5 +1,10 @@
 # Course Creator Prompts Before You Buy
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 When building online courses, the hardest part isn't teaching—it's structuring, writing, and selling. Most course creators spend 80% of their time on prep work instead of content creation. That's why I built a library of 50 AI prompts specifically for course creators who want a faster, private workflow.
 
 These aren't generic prompts. They're designed to generate:
