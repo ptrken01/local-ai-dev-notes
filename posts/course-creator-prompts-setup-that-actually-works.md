@@ -1,5 +1,10 @@
 # Course Creator Prompts Setup That Actually Works
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 
 Building a course workflow that scales without constant manual input requires structured prompts. Here's how to set up 50 AI prompts for course outlines, lesson scripts, and launch emails that actually work.
 
