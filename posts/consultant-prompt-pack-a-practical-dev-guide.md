@@ -1,5 +1,10 @@
 # Consultant Prompt Pack: A Practical Dev Guide
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 
 As a solopreneur consultant, you know the pain of repetitive copywriting tasks. Every proposal, client email, or lead magnet requires fresh content that still feels professional and persuasive. The solution? AI prompts designed specifically for consultants.
 
