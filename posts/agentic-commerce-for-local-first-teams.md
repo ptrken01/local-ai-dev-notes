@@ -1,5 +1,10 @@
 # Agentic Commerce for Local-First Teams
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 Local-first development teams face unique challenges when building products for autonomous AI buyers. These systems require a different approach than traditional e-commerce—where listings must be structured to be consumed by AI agents rather than human shoppers.
 
 The key insight is that agentic commerce requires **structured data** and **predictable interfaces**. Rather than optimizing for human intent, your product listings must encode clear value propositions, specifications, and purchasing signals that AI systems can parse automatically.
