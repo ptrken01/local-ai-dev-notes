@@ -1,5 +1,10 @@
 # Contractor AI Prompts Benchmarks & Numbers
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 
 When building AI workflows for local service businesses, the key is not just having prompts, but measuring their effectiveness. After testing 50 AI prompts across 12 contractor niches, I've found that performance varies dramatically based on prompt structure and specificity.
 
