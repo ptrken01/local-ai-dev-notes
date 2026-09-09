@@ -1,5 +1,10 @@
 # Client DM Templates: Common Pitfalls
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 
 When crafting client direct messages for fitness coaching, many practitioners fall into predictable traps that undermine conversion rates. Here's how to avoid them with a proven template system.
 
