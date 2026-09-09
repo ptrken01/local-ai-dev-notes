@@ -1,5 +1,10 @@
 # Combinatorial Optimization Logistics: A Practical Dev Guide
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 Combinatorial optimization is the mathematical backbone of logistics, scheduling, and resource allocation problems. For developers working with AI agents in operations, understanding how to apply these techniques efficiently can dramatically improve system performance.
 
 ## The Core Problem
