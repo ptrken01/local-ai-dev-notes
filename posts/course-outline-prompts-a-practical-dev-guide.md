@@ -1,5 +1,10 @@
 # Course Outline Prompts A Practical Dev Guide
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 
 When building online courses, the hardest part often isn't the content creation—it's the repetitive workflow of outlining, scripting, and launching. As a developer who's built dozens of courses for various audiences, I've found that automation through well-crafted prompts can eliminate of the friction in this process.
 
