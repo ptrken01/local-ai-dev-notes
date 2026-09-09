@@ -1,5 +1,10 @@
 # Consultant Prompt Pack Setup That Actually Works
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 
 Setting up a consultant prompt pack requires technical precision, not just copy-paste convenience. Here's how to build a working system that scales without constant manual intervention.
 
