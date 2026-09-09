@@ -1,5 +1,10 @@
 # Contractor Ai Prompts A Practical Dev Guide
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 
 When building local service business content, the repetitive task of crafting Google posts, quotes, and review requests can slow down your workflow significantly. This guide shows how to leverage AI prompts for a build-once, private workflow that scales across 50+ local service businesses.
 
