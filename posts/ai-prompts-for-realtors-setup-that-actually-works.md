@@ -1,5 +1,10 @@
 # Ai Prompts For Realtors Setup That Actually Works
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 
 Real estate agents spend countless hours writing listings, follow-ups, and ads. AI prompts can dramatically accelerate this workflow—but only if you set them up correctly.
 
