@@ -1,5 +1,10 @@
 # Consultant Prompt Pack A Minimal Working Example
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 
 When building a consulting business, copywriting is often the bottleneck. I've developed 50 AI prompts that eliminate the need for external copywriters, saving 2-3 hours per client email or proposal.
 
