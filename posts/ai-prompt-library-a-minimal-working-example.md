@@ -1,5 +1,10 @@
 # Ai Prompt Library: A Minimal Working Example
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 
 Building a production-ready AI workflow requires more than just copy-paste prompts. The real value comes from a structured approach that scales while maintaining quality.
 
