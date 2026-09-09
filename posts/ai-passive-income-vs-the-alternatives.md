@@ -1,5 +1,10 @@
 # AI Passive Income vs the Alternatives
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 The modern creator's toolkit has evolved dramatically. While traditional passive income strategies like affiliate marketing or rental properties still work, AI-powered digital products are emerging as a compelling alternative for tech-savvy practitioners who want to build once and earn continuously.
 
 ## The AI Advantage
