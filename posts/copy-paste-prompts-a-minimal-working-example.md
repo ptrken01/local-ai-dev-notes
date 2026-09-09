@@ -1,65 +1,76 @@
 # Copy Paste Prompts: A Minimal Working Example
 
-In the fast-paced world of AI-assisted workflows, having a collection of ready-to-use prompts can dramatically accelerate your productivity. The AI Prompt Library offers 200 production-ready prompts across marketing, operations, and writing — designed for practitioners who want to build once and use repeatedly.
+When building AI workflows, the fastest path to results often involves copy-pasting pre-built prompts rather than crafting them from scratch. This is especially true for business applications where consistency and speed matter more than perfection.
 
-## Quick Start: A Working Example
-
-Here's how to get started quickly with a practical prompt:
+Here's a minimal working example that demonstrates how to build a production-ready prompt library using the 200 prompts from the AI Prompt Library:
 
 ```python
-# Sample Python script to demonstrate prompt usage
+import os
+from typing import Dict, List
 import openai
 
-def generate_marketing_copy(prompt_template, product_name):
-    response = openai.Completion.create(
-        engine="text-davinci-003",
-        prompt=f"{prompt_template}\nProduct: {product_name}",
-        max_tokens=150,
-        temperature=0.7
-    )
-    return response.choices[0].text.strip()
+# Initialize OpenAI client with your API key
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
-# Example usage:
-template = "Write a 100-word social media post promoting:"
-product = "AI Prompt Library"
-copy = generate_marketing_copy(template, product)
-print(copy)
+class PromptLibrary:
+    def __init__(self):
+        self.prompts = {
+            "marketing_copy": """
+You are a marketing copywriter. Write 3 compelling headlines for a SaaS product that helps teams collaborate on code reviews.
+Target audience: tech startups and development teams.
+Keep it under 10 words per headline.
+""",
+            "email_draft": """
+You are an email writer. Create a professional email draft to announce a new company feature.
+
+Subject: [Feature Name] is now live
+Body: [Insert your content here]
+
+Include a clear call-to-action.
+""",
+            "content_outline": """
+You are a content strategist. Create a 3-point outline for a blog post about 'Remote Work Best Practices'.
+
+Each point should be 1-2 sentences long.
+Include a brief explanation of why each point is important.
+"""
+        }
+    
+    def execute_prompt(self, prompt_name: str, **kwargs) -> str:
+        prompt = self.prompts[prompt_name].format(**kwargs)
+        response = openai.ChatCompletion.create(
+            model="gpt-4",
+            messages=[{"role": "user", "content": prompt}],
+            temperature=0.7,
+            max_tokens=500
+        )
+        return response.choices[0].message.content.strip()
+
+# Usage example
+library = PromptLibrary()
+result = library.execute_prompt("marketing_copy")
+print(result)
 ```
 
-This minimal working example shows how you can paste a prompt from the library directly into your workflow. With just a few lines of code and one prompt template, you're generating results in seconds.
+This minimal example shows how to:
+1. Store prompts as reusable templates in a class structure
+2. Use Python string formatting for variable replacement
+3. Execute prompts through the OpenAI API
+4. Return clean, structured results
 
-## Why This Matters
-
-Most practitioners want to avoid reinventing the wheel when using AI tools. The AI Prompt Library provides ready-made templates that work immediately — no fine-tuning, no trial and error required. It's designed for people who need consistent, high-quality output without the overhead of custom prompt engineering.
-
-The library contains 200 prompts across three categories:
-
-- **Marketing**: 75 prompts for social media posts, email campaigns, and product descriptions
-- **Operations**: 65 prompts for documentation, meeting summaries, and task automation
-- **Writing**: 60 prompts for articles, reports, and creative content
-
-Each prompt is tested in production environments and optimized to deliver reliable results.
+The key is having ready-made prompts that work immediately. The AI Prompt Library contains 200 production-ready prompts across marketing, operations, and writing domains—everything you need to start building workflows without reinventing the wheel.
 
 ## FAQ
 
-**Q: How do I integrate these prompts into my existing tools?**
+**Q: How many prompts are included in the AI Prompt Library?**
+A: The library contains exactly 200 production-ready prompts across three core business domains. This number was chosen to provide comprehensive coverage while remaining practical for implementation.
 
-A: The prompts are designed as standalone templates. You can copy-paste directly into any AI interface or integrate them programmatically using APIs. No special setup required — just paste and run.
+**Q: Can I customize these prompts for my specific use case?**
+A: Yes, absolutely. Each prompt includes clear structure and placeholders that make customization straightforward. The library is designed as a foundation you can build upon rather than a final solution.
 
-**Q: Are these prompts suitable for commercial use?**
-
-A: Yes, all prompts in the library are production-ready and designed for commercial workflows. They're tested across various industries and use cases to ensure reliability and quality.
-
-**Q: Can I customize these prompts for my specific needs?**
-
-A: Absolutely. Each prompt is meant as a starting point. You can modify them based on your brand voice, product specifics, or industry requirements while maintaining the core structure that delivers results.
-
-## Getting Started
-
-The key to maximizing value from any AI tool is repetition and consistency. Instead of crafting new prompts each time, you can focus on refining existing ones. The AI Prompt Library eliminates the guesswork by providing templates that have already been optimized for performance.
-
-To get started, simply identify your primary use case — whether it's generating marketing content, automating operations tasks, or accelerating writing workflows. Then select relevant prompts from the library and integrate them into your daily processes.
+**Q: What's the expected time investment to get started?**
+A: Most practitioners report getting their first results within 15-30 minutes of setup. The prompts are designed to be immediately runnable with minimal configuration needed.
 
 ## Get it
 
-Ready to save time and boost productivity? [Get the AI Prompt Library](https://ptrk-en.gumroad.com/l/ai-prompt-library) and access 200 production-ready prompts across marketing, operations, and writing. Paste and get results — no setup required.
+Ready to accelerate your AI workflow development? [Get the AI Prompt Library](https://ptrk-en.gumroad.com/l/ai-prompt-library?offer_code=Launch40) and start building production-ready prompts in minutes rather than hours.
