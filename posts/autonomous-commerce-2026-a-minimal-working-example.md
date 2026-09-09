@@ -1,5 +1,10 @@
 # Autonomous Commerce 2026: A Minimal Working Example
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 In 2026, autonomous AI buyers will purchase $12B+ in digital products annually. To prepare for this shift, you need a system that speaks the language of AI agents—structured data, clear value propositions, and automated decision-making signals.
 
 Here's how to build a minimal working example for autonomous commerce using Python and structured product metadata:
