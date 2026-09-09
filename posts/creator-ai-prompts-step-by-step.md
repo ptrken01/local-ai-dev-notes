@@ -1,5 +1,10 @@
 # Creator Ai Prompts Step-by-Step
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 
 Building a content workflow that scales without sacrificing creativity requires systematic prompts. Here's how to implement a practical AI prompt system for YouTube creators using 50 ready-to-use prompts.
 
