@@ -1,5 +1,10 @@
 # AI Automation Workflows: A Practical Dev Guide
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 
 Small businesses need automation that works today, not tomorrow. The AI Automation Playbook delivers 51 ready-to-deploy workflows designed for immediate implementation—no theory, no setup friction.
 
@@ -95,4 +100,10 @@ The playbook's workflows average time on initial implementation, with potential 
 
 ## Get it
 
-[Get the AI Automation Playbook](/products/ai-automation-playbook) - 51 ready-to-deploy AI workflows that cut admin time for small teams. Copy-paste, not theory.
+**Want an MCP tool that does this without babysitting your own SearXNG instance?** See the early-access hosted MCP tool:
+
+[Broad framing — hosted MCP tool, early access](https://autoincomesys.com/c/broad) — for developers who want a hosted private search + scrape MCP server wired into their local agent workflow.
+
+[Narrow framing — private search MCP for local agents](https://autoincomesys.com/c/narrow) — for the privacy-conscious / local-llm crowd who want search inside their agent workflow without sending queries to a cloud API.
+
+[Or go straight to the early-access list on Gumroad](https://ptrk-en.gumroad.com/l/early-access-mcp).
