@@ -1,5 +1,10 @@
 # Creator Ai Prompts for Local-First Teams
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 
 As a content creator, you know that the most effective prompts are those that work consistently in your local environment without relying on external APIs or cloud services. This approach ensures privacy, speed, and reliability — critical for teams that need to maintain a build-once workflow.
 
