@@ -1,5 +1,10 @@
 # Client DM Templates for Local-First Teams
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 
 Building effective client relationships requires consistent, personalized communication. For local fitness coaches managing multiple clients, crafting individualized direct messages (DMs) can become time-consuming. This article presents a practical framework for creating reusable DM templates that scale while maintaining personal touch.
 
