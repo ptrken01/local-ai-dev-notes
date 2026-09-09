@@ -1,5 +1,10 @@
 # Consultant Prompt Pack in 2026
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 As a solopreneur consultant, you know that writing client emails, proposals, and lead magnets is time-consuming. You're not hiring copywriters or agencies—your workflow must be private, fast, and build-once.
 
 The solution? A curated set of 50 AI prompts tailored for consultants who want to automate their content creation without external dependencies. This prompt pack provides the exact language patterns you need, with no fluff.
