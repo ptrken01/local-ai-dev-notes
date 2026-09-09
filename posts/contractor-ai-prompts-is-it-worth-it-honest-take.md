@@ -1,5 +1,10 @@
 # Contractor AI Prompts Is It Worth It (Honest Take)
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 As a contractor, I've spent countless hours crafting Google posts, quotes, and review requests. The repetitive nature of this work begged for automation—until I discovered **Contractor AI Prompts**.
 
 This collection delivers 50 ready-to-use prompts specifically designed for local service businesses. Each prompt is structured to generate consistent, professional content with minimal effort.
