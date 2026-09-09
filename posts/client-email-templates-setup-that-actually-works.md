@@ -1,5 +1,10 @@
 # Client Email Templates Setup That Actually Works
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 
 Setting up email templates for client communications doesn't have to be a time-consuming process. With the right approach, you can create a system that works once and scales indefinitely. Here's how to build a practical email template workflow using AI prompts.
 
