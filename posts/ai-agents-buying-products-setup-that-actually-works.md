@@ -1,5 +1,10 @@
 # Ai Agents Buying Products Setup That Actually Works
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 The rise of AI agents in commerce presents a new frontier for product creators. Unlike traditional consumers, autonomous buyers require specific data structures and presentation formats to make purchasing decisions. This article provides a practical framework for building listings that AI agents actually purchase.
 
 ## Core Architecture
