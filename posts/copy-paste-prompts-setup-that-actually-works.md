@@ -1,5 +1,10 @@
 # Copy Paste Prompts Setup That Actually Works
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 
 The AI Prompt Library offers 200 production-ready prompts across marketing, operations, and writing that work immediately when you paste them into your AI interface. This setup saves you hours of crafting prompts from scratch while maintaining consistent quality for business applications.
 
