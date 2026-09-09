@@ -1,5 +1,10 @@
 # AI Skills For Professionals Setup That Actually Works
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 
 Every professional deserves a faster, private, build-once workflow that leverages AI without requiring coding skills or technical jargon. This guide shows you how to set up an AI-powered productivity system using simple tools that work reliably across platforms.
 
