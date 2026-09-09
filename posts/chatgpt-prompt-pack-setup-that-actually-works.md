@@ -1,97 +1,86 @@
 # ChatGPT Prompt Pack Setup That Actually Works
 
-Setting up a production-ready prompt library doesn't require complex infrastructure. Here's a straightforward approach using plain text files and simple automation that scales across your team.
+Setting up a production-ready ChatGPT prompt pack doesn't require complex infrastructure or expensive tools. Here's a simple, repeatable workflow that delivers results in minutes.
 
-## The Core Concept
+## The Setup Process
 
-Create a directory structure where each prompt lives as a standalone `.txt` file. This approach eliminates dependency on proprietary tools while enabling easy version control and team collaboration. 
+Create a structured directory with these components:
 
 ```
-prompt-library/
-├── marketing/
-│   ├── seo-copy.txt
-│   └── social-media-caption.txt
-├── operations/
-│   ├── meeting-summaries.txt
-│   └── email-response.txt
-└── writing/
-    ├── blog-outline.txt
-    └── product-description.txt
+prompt-pack/
+├── prompts/
+│   ├── marketing/
+│   │   ├── email-campaign.md
+│   │   └── social-copy.md
+│   ├── writing/
+│   │   ├── blog-outline.md
+│   │   └── article-summary.md
+│   └── operations/
+│       ├── meeting-notes.md
+│       └── task-delegation.md
+├── templates/
+│   ├── generic-template.md
+│   └── workflow-template.md
+└── README.md
 ```
 
-## Implementation Steps
+The key is using consistent prompt formatting. Each file should contain:
 
-### Step 1: Create the Directory Structure
+```markdown
+# [Prompt Title]
+
+## Objective
+[What you want to achieve]
+
+## Instructions
+1. [Step-by-step guidance]
+2. [Include context needed]
+
+## Example Output
+[Sample response format]
+
+## Usage Notes
+[Specific parameters or constraints]
+```
+
+For implementation, use this bash script to generate consistent prompt files:
 
 ```bash
-mkdir -p prompt-library/{marketing,operations,writing}
+#!/bin/bash
+mkdir -p prompt-pack/prompts/{marketing,writing,operations}
+for category in marketing writing operations; do
+  echo "# [Prompt Title]
+
+## Objective
+[What you want to achieve]
+
+## Instructions
+1. [Step-by-step guidance]
+2. [Include context needed]
+
+## Example Output
+[Sample response format]
+
+## Usage Notes
+[Specific parameters or constraints]" > prompt-pack/prompts/$category/template.md
+done
 ```
 
-### Step 2: Add Sample Prompts
-
-Each prompt file contains a single instruction with clear formatting:
-
-**prompt-library/marketing/seo-copy.txt**
-```
-Write SEO-optimized blog content for [TOPIC] targeting [KEYWORD]. 
-Include:
-1. Introduction with keyword
-2. 3-4 body sections with subheadings
-3. Conclusion with call-to-action
-4. 100-150 words total
-```
-
-### Step 3: Automation Script
-
-Create a `prompt_runner.py` script to load and execute prompts:
-
-```python
-import os
-import sys
-
-def run_prompt(prompt_name, **kwargs):
-    prompt_path = f"prompt-library/{prompt_name}.txt"
-    with open(prompt_path, 'r') as f:
-        prompt_text = f.read()
-    
-    # Replace placeholders with provided values
-    for key, value in kwargs.items():
-        prompt_text = prompt_text.replace(f"[{key.upper()}]", str(value))
-    
-    return prompt_text
-
-# Example usage:
-# result = run_prompt("marketing/seo-copy", topic="remote work tools", keyword="productivity")
-```
-
-### Step 4: Integration with Your Workflow
-
-Integrate this into your existing tools:
-
-```python
-# In your content creation workflow
-prompt_content = run_prompt("writing/blog-outline", topic="AI trends")
-print(prompt_content)
-```
-
-This setup works across any system that supports text files and Python. No cloud dependencies, no API limits, just reliable, repeatable prompts.
+This setup scales across 200+ prompts while maintaining workflow consistency. Each prompt becomes a self-contained unit that integrates with your existing tools.
 
 ## FAQ
 
-**Q: How does this scale with a large team?**
+**Q: How do I maintain consistency across 200 prompts?**
+A: Use templates and standardized formatting. Create a base template with sections like Objective, Instructions, Example Output, and Usage Notes. This ensures every prompt follows the same structure, making them easy to scan and modify.
 
-A: The plain-text approach works well for teams up to 50 people. Each member can fork the repository, make changes, and submit pull requests. For larger teams, add basic access controls and automated testing of prompt quality. Version control handles conflicts naturally.
+**Q: What's the best way to organize prompts for daily use?**
+A: Group by function rather than topic. Separate marketing, writing, and operations prompts into distinct directories. Use clear naming conventions like `blog-outline.md` or `email-campaign.md`. This mirrors how you naturally work and reduces decision fatigue.
 
-**Q: What about prompt variations or templates?**
-
-A: Use parameterized prompts with placeholders. The example shows keyword replacement, but you can expand this to include content types, audience segments, or industry-specific variables. This maintains consistency while allowing flexibility.
-
-**Q: Can I integrate this with existing tools like Notion or Airtable?**
-
-A: Yes. The text files can be imported into any tool that accepts plain text. For Notion integration, create a script that reads the prompt files and creates database entries. Airtable users can import the prompts as templates using simple CSV conversion.
+**Q: Can I integrate this with existing tools?**
+A: Yes. The markdown format works with any text editor, Git, or documentation systems. Import prompts directly into ChatGPT by copying from your files. You can also build simple automation scripts to batch import prompts into your preferred workflow tools.
 
 ## Get it
 
-**[Get the AI Prompt Library: 200 Copy-Paste Prompts for Business](https://ptrk-en.gumroad.com/l/ai-prompt-library)**
+Ready to implement this setup? Download the **AI Prompt Library: 200 Copy-Paste Prompts for Business** with 40% off using code `Launch40` at [https://ptrk-en.gumroad.com/l/ai-prompt-library?offer_code=Launch40](https://ptrk-en.gumroad.com/l/ai-prompt-library?offer_code=Launch40)
 
-This library provides 200 production-ready prompts across marketing, operations, and writing. Each prompt is ready to copy-paste with specific formatting that works reliably across different AI models. No setup required—just download and start using immediately.
+This library contains production-ready prompts across marketing, operations, and writing that you can paste directly into ChatGPT with minimal setup. No complex configuration needed – just copy, paste, and go.
