@@ -1,5 +1,10 @@
 # Copy Paste Prompts Benchmarks & Numbers
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 
 When building AI workflows, the time spent crafting prompts often becomes the bottleneck. The AI Prompt Library addresses this with 200 ready-to-use production prompts across marketing, operations, and writing—paste and get results.
 
