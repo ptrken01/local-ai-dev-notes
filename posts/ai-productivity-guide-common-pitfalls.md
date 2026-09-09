@@ -1,5 +1,10 @@
 # AI Productivity Guide: Common Pitfalls
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 
 AI tools promise to revolutionize how we work, but many users fall into common traps that undermine productivity gains. This guide reveals the most frequent mistakes and provides practical solutions for real work applications.
 
