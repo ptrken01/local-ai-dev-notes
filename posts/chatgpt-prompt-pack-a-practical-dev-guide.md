@@ -1,5 +1,10 @@
 # ChatGPT Prompt Pack: A Practical Dev Guide
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 
 As developers, we constantly seek ways to accelerate our workflow while maintaining quality. The AI Prompt Library offers a solution: 200 ready-to-use prompts for marketing, operations, and writing tasks that you can copy-paste directly into ChatGPT.
 
