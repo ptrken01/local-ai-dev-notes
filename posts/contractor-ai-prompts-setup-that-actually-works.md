@@ -1,5 +1,10 @@
 # Contractor Ai Prompts Setup That Actually Works
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 
 Setting up AI prompts for local service businesses doesn't have to be a maze of trial and error. Here's a working template that delivers consistent results across 50+ business types.
 
