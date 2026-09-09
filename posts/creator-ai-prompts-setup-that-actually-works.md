@@ -1,5 +1,10 @@
 # Creator AI Prompts Setup That Actually Works
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 
 Setting up AI prompts for YouTube content creation doesn't have to be a chaotic experiment. With a structured approach, you can build a private, reusable workflow that generates video scripts, titles, and thumbnails consistently.
 
