@@ -1,5 +1,10 @@
 # Client DM Templates Step-by-Step
 
+**Last updated:** 2026-08-15  
+**Version:** 1.0  
+**Next review:** 2027-08-15
+
+
 
 As a fitness coach, your time is precious. You're not just training clients—you're building relationships that convert. The most effective coaches automate their communication workflows without sacrificing personal touch.
 
