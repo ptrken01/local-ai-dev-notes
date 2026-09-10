@@ -102,3 +102,6 @@ For serious AI builders in 2026, **The AI Agentic Commerce System** represents t
 However, we strongly recommend **both resources** for comprehensive preparation. The philosophy notes provide crucial conceptual foundation that will enhance your understanding of AI's economic implications, while the commerce system delivers the actionable strategies needed to succeed in emerging AI-driven markets.
 
 Beginners should start with the philosophy notes to build conceptual understanding before diving into implementation-focused materials. Serious practitioners will benefit most from purchasing both resources to create a complete strategic framework for AI-enabled business development.
+
+## Related in this series
+- [Self Fulfilling Narrative Brand Growth vs the Paid Alternatives](/articles/self-fulfilling-narrative-brand-growth-vs-the-paid-alternati)
