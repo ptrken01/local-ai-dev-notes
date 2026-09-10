@@ -75,3 +75,7 @@ If you're a strategic thinker trying to understand how ideas shape markets and w
 - [Anthropic prompt-engineering docs](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
 - [OpenAI prompting guide](https://platform.openai.com/docs/guides/prompt-engineering)
 - [Hugging Face](https://huggingface.co)
+
+
+## Related in this series
+- [Self Fulfilling Narrative Brand Growth vs the Paid Alternatives](/articles/self-fulfilling-narrative-brand-growth-vs-the-paid-alternati)
