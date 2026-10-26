@@ -67,6 +67,9 @@ Live articles + SEO hub: https://autoincomesys.com
 - **[The No-Code Automation Survivor’s Guide to Open Source Tools](https://autoincomesys.com/products/arena-the-no-code-automation-survivor-s-guide-to-open-)** — For no-code automation users (Zapier/n8n refugees). Grounded in verified open-source tools. ($15)
 - **[Local LLM Agent Automation Playbook: From Scraping to MCP Integration](https://autoincomesys.com/products/arena-local-llm-agent-automation-playbook-from-scrapin)** — For people running local LLMs (Ollama/MLX/llama.cpp). Grounded in verified open-source tools. ($29)
 - **[AI Job Application Speedrun: Automate Your Resume, Scrape Jobs, and Win Intervie](https://autoincomesys.com/products/arena-ai-job-application-speedrun-automate-your-resume)** — For job seekers using AI for applications. Grounded in verified open-source tools. ($0)
+- **[GPT Astra Business Playbook — 50 Workflows That Actually Save Time](https://ptrk-en.gumroad.com/l/gpt-astra-business-playbook)** — 50 copy-paste GPT Astra workflows for business — CRM, Excel & Power BI, docs, terminal & coding, with real benchmarks and cost rules. ($29)
+- **[The Agency Proposal Kit](https://ptrk-en.gumroad.com/l/agency-proposal-kit)** — Evidence-backed client research method and reusable proposal templates for small web and SEO agencies. Teaches a five-field method (observed, interpretation, proposed work, acceptance check, sequence) with a real worked example. Sells a method, not outcomes. ($29)
+- **[Freelancer Client-CRM - Notion Workspace for Clients, Projects, Invoices & Delivery](https://ptrk-en.gumroad.com/l/freelancer-client-crm)** — Four linked Notion databases — clients, projects, invoices and delivery — shipped as CSV files that Notion imports natively, with 17 sample rows, four ready-made dashboard views, a step-by-step import guide and an optional Notion API script. $12 one-time, MIT license, personal and commercial use. ($12)
 
 ## Latest articles
 
