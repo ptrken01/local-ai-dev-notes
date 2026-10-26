@@ -78,4 +78,4 @@ If you're a strategic thinker trying to understand how ideas shape markets and w
 
 
 ## Related in this series
-- [Self Fulfilling Narrative Brand Growth vs the Paid Alternatives](/articles/self-fulfilling-narrative-brand-growth-vs-the-paid-alternati)
+- [Hyperstition Explained for Local-First Teams](/articles/hyperstition-explained-for-local-first-teams)
