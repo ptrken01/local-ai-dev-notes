@@ -103,5 +103,6 @@ However, we strongly recommend **both resources** for comprehensive preparation.
 
 Beginners should start with the philosophy notes to build conceptual understanding before diving into implementation-focused materials. Serious practitioners will benefit most from purchasing both resources to create a complete strategic framework for AI-enabled business development.
 
+
 ## Related in this series
-- [Self Fulfilling Narrative Brand Growth vs the Paid Alternatives](/articles/self-fulfilling-narrative-brand-growth-vs-the-paid-alternati)
+- [Hyperstition Explained for Local-First Teams](/articles/hyperstition-explained-for-local-first-teams)
