@@ -67,4 +67,4 @@ This doesn't require radical change. Start by identifying 3-5 key ideas your bra
 
 
 ## Related in this series
-- [Hyperstition Explained for Local-First Teams](/articles/hyperstition-explained-for-local-first-teams)
+- [Capitalism Is AI Thesis vs the Alternatives](/articles/capitalism-is-ai-thesis-vs-the-alternatives)
