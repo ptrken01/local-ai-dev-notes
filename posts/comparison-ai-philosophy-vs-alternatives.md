@@ -78,4 +78,4 @@ If you're a strategic thinker trying to understand how ideas shape markets and w
 
 
 ## Related in this series
-- [Hyperstition Explained for Local-First Teams](/articles/hyperstition-explained-for-local-first-teams)
+- [Capitalism Is AI Thesis vs the Alternatives](/articles/capitalism-is-ai-thesis-vs-the-alternatives)
