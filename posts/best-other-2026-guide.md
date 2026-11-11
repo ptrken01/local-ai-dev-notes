@@ -105,4 +105,4 @@ Beginners should start with the philosophy notes to build conceptual understandi
 
 
 ## Related in this series
-- [Hyperstition Explained for Local-First Teams](/articles/hyperstition-explained-for-local-first-teams)
+- [Capitalism Is AI Thesis vs the Alternatives](/articles/capitalism-is-ai-thesis-vs-the-alternatives)
